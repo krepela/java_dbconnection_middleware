@@ -2,6 +2,11 @@ package java_dbconnection_middleware;
 
 import java.sql.*;
 
+/**
+ * http://jdbc.postgresql.org/documentation/81/listennotify.html
+ * @author 
+ *
+ */
 public class Notification {
 
 	public static void main(String args[]) throws Exception {
